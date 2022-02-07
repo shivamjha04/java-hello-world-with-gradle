@@ -38,6 +38,7 @@ mainClassName = 'hello.HelloWorld'
 repositories {
     mavenCentral()
 }
+
 // end::repositories[]
 
 // tag::jar[]
